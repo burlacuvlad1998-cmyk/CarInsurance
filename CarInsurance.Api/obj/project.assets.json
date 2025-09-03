@@ -1745,11 +1745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\CarInsurance.Api\\CarInsurance.Api.csproj",
+      "projectUniqueName": "D:\\Code\\CarInsurance\\CarInsurance.Api\\CarInsurance.Api.csproj",
       "projectName": "CarInsurance.Api",
-      "projectPath": "D:\\Code\\CarInsurance.Api\\CarInsurance.Api.csproj",
+      "projectPath": "D:\\Code\\CarInsurance\\CarInsurance.Api\\CarInsurance.Api.csproj",
       "packagesPath": "C:\\Users\\webca\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\CarInsurance.Api\\obj\\",
+      "outputPath": "D:\\Code\\CarInsurance\\CarInsurance.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

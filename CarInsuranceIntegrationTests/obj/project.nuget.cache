@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLC137n0VL4=",
+  "dgSpecHash": "ffafsKaqeDE=",
   "success": true,
-  "projectFilePath": "D:\\Code\\CarInsuranceIntegrationTests\\CarInsuranceIntegrationTests.csproj",
+  "projectFilePath": "D:\\Code\\CarInsurance\\CarInsuranceIntegrationTests\\CarInsuranceIntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\webca\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\webca\\.nuget\\packages\\fluentassertions\\8.6.0\\fluentassertions.8.6.0.nupkg.sha512",

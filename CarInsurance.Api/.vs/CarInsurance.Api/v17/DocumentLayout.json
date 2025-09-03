@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\CarInsurance.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1AE887-2BCC-4096-AAB4-3528BEF0CC0D}|..\\CarInsuranceIntegrationTests\\CarInsuranceIntegrationTests.csproj|d:\\code\\carinsuranceintegrationtests\\carinsuranceintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E668740E-884D-461D-85D1-128B8C9C3447}|..\\CarInsUniTest\\CarInsUniTest.csproj|d:\\code\\carinsunitest\\carscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|d:\\code\\carinsurance.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|d:\\code\\carinsurance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|d:\\code\\carinsurance.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "D:\\Code\\CarInsurance.Api\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Services\\CarService.cs",
+              "ToolTip": "D:\\Code\\CarInsurance.Api\\Services\\CarService.cs",
+              "RelativeToolTip": "Services\\CarService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:36:52.063Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\CarInsurance.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\CarInsurance.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:23:09.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsControllerTests.cs",
+              "DocumentMoniker": "D:\\Code\\CarInsUniTest\\CarsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\CarInsUniTest\\CarsControllerTests.cs",
+              "ToolTip": "D:\\Code\\CarInsUniTest\\CarsControllerTests.cs",
+              "RelativeToolTip": "..\\CarInsUniTest\\CarsControllerTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:59:44.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarInsuranceIntegrationTests.cs",
+              "DocumentMoniker": "D:\\Code\\CarInsuranceIntegrationTests\\CarInsuranceIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\CarInsuranceIntegrationTests\\CarInsuranceIntegrationTests.cs",
+              "ToolTip": "D:\\Code\\CarInsuranceIntegrationTests\\CarInsuranceIntegrationTests.cs",
+              "RelativeToolTip": "..\\CarInsuranceIntegrationTests\\CarInsuranceIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:55:00.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6311db9b-78e7-4598-821c-99aa145a7e26",
+        "Display": 1,
+        "X": 7,
+        "Y": 5,
+        "Width": 1705,
+        "Height": 911,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Code\\CarInsurance.Api\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Code\\CarInsurance.Api\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAGUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-02T11:34:38.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

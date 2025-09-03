@@ -1,0 +1,15 @@
+### Get all cars
+GET https://localhost:61341/api/cars
+Accept: application/json
+
+### Check insurance validity for a car (example: carId=1, date=2024-06-01)
+GET https://localhost:61341/api/cars/1/insurance-valid?date=2024-06-01
+Accept: application/json
+
+### Task B step1: Register an insurance claim for a car (example: carId=1, claimDate=2025-09-02, description, amount)
+POST https://localhost:61341/api/cars/1/claims?carId=1&claimDate=2025-09-02&description=Accident&amount=1500
+Accept: application/json
+
+### Task B step 2: Get all insurance claims for a car (example: carId=1)
+GET https://localhost:61341/api/cars/1/claims-history
+Accept: application/json
